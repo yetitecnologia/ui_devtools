@@ -25,7 +25,7 @@ the following commands:
 
 ```
 brew install php@8.2
-brew tap phalcon/extension https://github.com/opnsense/homebrew-tap
+brew tap phalcon/extension https://github.com/yetitecnologia/homebrew-tap
 brew install phalcon
 ```
 
